@@ -1,0 +1,3 @@
+= happn-tech Has Moved!
+
+From now on, please go to https://github.com/happn-app/[happn-app] for happn’s repositories.
